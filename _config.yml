@@ -1,0 +1,56 @@
+# Set theme
+remote_theme: edmsmayan/alembic
+
+# File excludes
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+
+# Set plugins
+plugins:
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-default-layout
+- jekyll-feed
+- jemoji
+- jekyll-remote-theme
+
+# Site settings
+url: 'https://mydomain.com'
+baseurl: ''
+title: 'EDMS'
+description: 'edms'
+permalink: pretty
+logo: "https://docs.mayan-edms.com/_images/mayan_logo.png"
+
+# Pagination
+paginate: 5
+paginate_path: blog/page:num
+
+# Header nav
+navigation_header:
+- title: Trang chủ
+  url: /
+- title: EDMS
+  url: /blog/
+- title: Liên hệ
+  url: /contact/
+
+# Footer nav
+navigation_footer:
+- title: Back to top
+  url: "#top"
+
+# Collections
+collections:
+  posts:
+    title: "Bài viết"
+    output: true
+    description: ""
+    feature_text: | 
+      Phần mềm quản lý kho tài liệu số
+    feature_image: "https://picsum.photos/2560/600?image=866"
