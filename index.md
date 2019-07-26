@@ -1,5 +1,5 @@
 ---
-title: About
+title: ""
 layout: page
 feature_image: "https://picsum.photos/1300/400?image=989"
 feature_text: |
@@ -7,9 +7,9 @@ feature_text: |
   ##### Hệ thống phần mềm quản lý Kho dữ liệu tài liệu số
 ---
 
-Mayan EDMS là một hệ thống quản lý kho tài liệu cho một tổ chức/ doanh nghiệp. Nó có khả năng lưu trữ nhiều định dạng tài liệu, phân loại và tìm kiếm mạnh mẽ theo nội dung cũng như loại tài liệu. Hỗ trợ OCR nhiều ngôn ngữ, nhãn tài liệu, ký số tài liệu, gửi email, workflow...
+Mayan EDMS là phần mềm quản lý kho tài liệu điện tử dành cho tổ chức, doanh nghiệp. Nó có khả năng lưu trữ và quản lý nhiều định dạng tài liệu trên nền tảng Web, Với những tính năng mạnh mẽ giúp doanh nghiệp chuyển đổi từ mô hình tài liệu giấy tờ truyền thống sang mô hình văn phòng số không giấy tờ.
 
-## Features
+## Các tính năng
 
 - Quản lý phiên bản tài liệu (Document versioning).
     - Lưu nhiều phiên bản tài liệu, download hoặc hoàn lại phiên bản trước.
