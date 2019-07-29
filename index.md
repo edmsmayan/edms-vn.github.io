@@ -13,27 +13,22 @@ Mayan EDMS là phần mềm quản lý kho tài liệu điện tử dành cho t�
 
 - Quản lý phiên bản tài liệu (Document versioning).
     - Lưu nhiều phiên bản tài liệu, download hoặc hoàn lại phiên bản trước.
-- Electronic signature verification.
-    - Check the authenticity of documents by verifying their embedded cryptographic signatures or upload detached signatures for document signed after they were stored.
+- Ký điện tử.
+    - Xác nhận tác giả của tài liệu bằng chữ ký điện tử.
 - Công cụ cộng tác.
     - Thảo luận về tài liệu, hoặc comment trên các phiên bản mới của tài liệu.
 - Hỗ trợ các định dạng tài liệu Office.
     - Mayan EDMS hỗ trợ các định dạng file office như Word, Excel...
 - Định nghĩa các thuộc tính thông tin của tài liệu (metadata).
     - Several metadata fields can be matched to a document type as per technical, legal or structural requirements such as the Dublin core.
-- Dynamic default values for metadata.
-    - Metadata fields can have an initial value, which can be static or determined by a template code snippet provided by the user.
-- Documents can be uploaded from different sources.
-    - Local file or server side file uploads, multifunctional copier, or even via email.
-- Batch upload many documents with the same metadata.
-    - Clone a document’s metadata for speedier uploads and eliminate repetitive data entry.
-- Previews for many file formats.
-    - Mayan EDMS provides image preview generation for many popular file formats.
-- Full text searching.
-    - Documents can be searched by their text content, their metadata or any other file attribute such as name, extension, etc.
-- Configurable document grouping.
-    - Automatic linking of documents based on metadata values or document properties.
-- Roles support.
+- Tài liệu có thể được nhập vào bằng nhiều nguồn khác nhau.
+    - Upload qua web, thư mục, email...
+- Xem trước tài liệu.
+- Tìm kiếm tài liệu (Full text searching).
+    - Tài liệu có thể được tìm kiếm bằng nội dung, thuộc tính metadata, tên file...
+- Nhóm tài liệu.
+    - Tài liệu có thể được liên kết nhóm với nhau dựa vào metadata
+- Phân quyền truy cập tài liệu 
     - It is possible to create an unlimited amount of different roles not being restricted to the traditional admin, operator, guest paradigm.
 - Fine grained permissions system.
     - There is a permission for every atomic operation performed by users.
