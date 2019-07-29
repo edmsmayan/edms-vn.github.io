@@ -22,10 +22,12 @@ plugins:
 # Site settings
 url: 'https://mydomain.com'
 baseurl: ''
+encoding: utf-8
 title: 'EDMS'
 description: 'edms'
 permalink: pretty
 logo: "https://docs.mayan-edms.com/_images/mayan_logo.png"
+email: trungpm.vi@gmail.com
 
 # Pagination
 paginate: 5
