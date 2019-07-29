@@ -7,3 +7,5 @@ title: Liên hệ
 
 * Hotline: 034455 1802
 * Email: mayanedms@gmail.com
+
+{% include site-form.html %}
