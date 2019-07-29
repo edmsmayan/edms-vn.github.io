@@ -9,4 +9,4 @@ title: Liên hệ
 * Email: mayanedms@gmail.com
 
 ### Hoặc gửi yêu cầu cho chúng tôi dưới đây:
-{% include site-form.html %}
+{% include site-form.html thanks_url="/thank" %}
